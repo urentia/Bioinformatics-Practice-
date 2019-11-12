@@ -8,16 +8,16 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://kerchner.github.io/beautiful-project"
+url: "http://kerchner.github.io/Bioinformatics Practice"
 
 # baseurl should be an empty string
 #baseurl: ""
 
 # Name of website
-title: My Data Science Project
+title: My Github Site 
 
 # Short description of your site
-description: Here's the description of my project
+description: Practicing making a Github site for Bioinformatics 
 
 # --- Navigation bar options --- #
 
