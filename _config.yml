@@ -14,10 +14,10 @@ url: "http://kerchner.github.io/beautiful-project"
 #baseurl: ""
 
 # Name of website
-title: My Data Science Project
+title: Uzma Rentia Personal Website
 
 # Short description of your site
-description: Here's the description of my project
+description: I am an undergraduate at George Washington University studying Public Health 
 
 # --- Navigation bar options --- #
 
@@ -42,8 +42,8 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
+  name: Uzma Rentia
+  email: "uzma.rentia@gwu.edu"
   facebook: yourfacebook
   github: yourgithub
   twitter: yourtwitter
