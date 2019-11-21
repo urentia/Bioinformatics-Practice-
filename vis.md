@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Markdown-based page example
-subtitle: Subtitle goes here
+title: My Research Projects
+subtitle: I currently work in an Neural Development Lab. Previously, I have pursued independent chemsitry research. 
 bigimg: /img/start.jpg
 ---
 
-## Here is where we can insert an image:
+## Glutamate Receptor Expression in Multiple Sclerosis Patients:
 
-![GW Data Science logo](/img/gwdsp.png)
+I am assisting in a long-examining the differential expression of the Grin1 and Grin2C subunits of the NMDA receptor in post-mortem human brain samples of white matter plaques versus non-diseased samples. I have been optimizing the immunohistochemistry and RNAscope protocols. 
 
-## How about a link?
+## Carbon Nanocomposites
 
 And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
 
