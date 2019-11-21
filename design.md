@@ -1,11 +1,11 @@
 ---
 layout: page
-title: My Research Projects
-subtitle: Human tissue I stained and images showing GFAP and CD68 expression in the area of a demyelinating lesion. 
+title: Design 
+subtitle: I have over five years of experience using the Adobe Creative Cloud Suite
 bigimg: /img/SLIDE2~1.JPG
 ---
 
-## Glutamate Receptor Expression in Multiple Sclerosis Patients:
+## Designs I made before and while serving as Co-Editor-in-Chief of my highschool newsmagazine, tjTODAY:
 
 I am assisting in a long-examining the differential expression of the Grin1 and Grin2C subunits of the NMDA receptor in post-mortem human brain samples of white matter plaques versus non-diseased samples. I have been optimizing the immunohistochemistry and RNAscope protocols. 
 
