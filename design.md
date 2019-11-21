@@ -7,7 +7,9 @@ bigimg: /img/SLIDE2~1.JPG
 
 ## Designs I made before and while serving as Co-Editor-in-Chief of my highschool newsmagazine, tjTODAY:
 
-I am assisting in a long-examining the differential expression of the Grin1 and Grin2C subunits of the NMDA receptor in post-mortem human brain samples of white matter plaques versus non-diseased samples. I have been optimizing the immunohistochemistry and RNAscope protocols. 
+See the rest of our issues at: https://issuu.com/tjtoday
+Check out this video I made with one of my co-editors when we covered an event at the Washington Post: 
+[![Alt text](https://img.youtube.com/vi/4rT-y76jnPk&feature=emb_logo/0.jpg)](https://www.youtube.com/watch?v=4rT-y76jnPk&feature=emb_logo)
 
 ## Adsorption Of Common Water Pollutants By Magnetite-Activated Carbon Nanocomposites
 
