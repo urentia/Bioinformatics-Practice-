@@ -32,9 +32,8 @@ navbar-links:
     - Getting started: "getstarted"
     - Linkedin: "https://www.linkedin.com/in/uzma-rentia-264639174"
   Projects:
-   - My Visualization: "vis"     
-   - Example of a Markdown page: "md-example"   
-   - Example of an HTML page: "html-example"
+   - My Research: "vis"     
+  
 
 # --- Footer options --- #
 
