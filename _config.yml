@@ -29,10 +29,13 @@ description: I am an sophomore at George Washington University Studying Public H
 navbar-links:
   Home: ""
   About Me:
-    - Getting started: "getstarted"
+    - About Me: "getstarted"
     - Linkedin: "https://www.linkedin.com/in/uzma-rentia-264639174"
   Projects:
-   - My Research: "vis"     
+   - My Research: "vis"
+   - Design: 
+   - Volunteering:
+  
   
 
 # --- Footer options --- #
