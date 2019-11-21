@@ -2,7 +2,7 @@
 layout: page
 title: My Research Projects
 subtitle: I currently work in an Neural Development Lab. Previously, I have pursued independent chemsitry research. 
-bigimg: /img/start.jpg
+bigimg: /img/SLIDE2~1.JPG
 ---
 
 ## Glutamate Receptor Expression in Multiple Sclerosis Patients:
