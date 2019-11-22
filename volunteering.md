@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Volunteering
-bigimg: /img/LIFE.JPG
+bigimg: /img/Life.JPG
 ---
 
 ## International Rescue Committee
