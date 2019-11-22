@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-bigimg: /img/CampusLife_Homepage.jpg
+bigimg: /img/CampusLife_Homepage.png
 ---
 
 I am a sophomore at George Washington University majoring in Public Health and minoring in Bioinformatics. I currently conduct research at a Neural Development Lab at George Washington University School of Medicine and Health Sciences. You can also find scribing for George Washington's Medical Faculty Association. In the future, I hope to conduct high impact research on autoimmune disorders such as multiple sclerosis and lupus, as well as oncofertility and endometriosis. I love learning and hope to expand my repertoire of technical skills. <br/> 
