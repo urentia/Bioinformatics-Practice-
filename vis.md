@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Research Projects
-subtitle: Human tissue I stained and images showing GFAP and CD68 expression in the area of a demyelinating lesion. 
+subtitle: Human tissue I stained and imaged showing GFAP (glial cells) and CD68 (inflammatory cells) expression in the area of a demyelinating lesion. 
 bigimg: /img/SLIDE2~1.JPG
 ---
 
